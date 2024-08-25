@@ -8,7 +8,9 @@
 - 🤔 I’m looking for help with Placements in MNC Company
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](E-Mail::nihethane@gmail.com) <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nihethan-eswaran-a24a492a8)
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](E-Mail::nihethane@gmail.com) <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nihethan-eswaran-a24a492a8)<br/>[<img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>]<button class="btn btn-color-2" onclick="window.open('./assets/nihethan eswaran resume.pdf')">
+          Download CV
+        </button>
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Simulators Games.
 
