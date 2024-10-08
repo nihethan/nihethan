@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Nihethan Eswaran
+<img width="130" height="100" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git"/>       
 
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in MNC Company
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">                                                 
+- 🌱 I’m currently learning DSA</br>
+- 👯 I’m looking to collaborate on ML/AI</br>
+- 🤔 I’m looking for help with Placements in MNC Company</br>
 - 💬 Ask me about Tech</br>
 - 📫 How to reach me :
 <br /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(https://e-mail:nihethane@gmail.com)] <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://linkedin.com/in/nihethan-eswaran-a24a492a8)]<br/>[<img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/>]<button class="btn btn-color-2" onclick="window.open('./assets/nihethan eswaran resume.pdf')">]Download CV
