@@ -23,7 +23,11 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/> <img width="48" height="48" src="https://img.icons8.com/doodle/48/figma.png" alt="figma"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/duolingo-logo.png" alt="duolingo-logo"/><img width="48" height="48" src="https://img.icons8.com/windows/48/hackerrank.png" alt="hackerrank"/><img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/>
 
 [![Leetcode Stats]<br/>(![LeetCode Stats](https://leetcard.jacoblin.cool/Nihethan_Eswaran?theme=dark&font=Marcellus&ext=contest))
+![Nihethan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nihethan&theme=vue-dark&hide_border=false)
 
+![Nihethan's Stats](https://github-readme-stats.vercel.app/api?username=nihethan&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![Nihethan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihethan&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!---
 nihethan/nihethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
