@@ -8,7 +8,7 @@
 - 💬 Ask me about Tech</br>
 - 📫 How to reach me :
 <br /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(nihethane@gmail.com) <br/><br /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />Linkedin<br/>(https://linkedin.com/in/nihethan-eswaran-a24a492a8)<br/><img width="64" height="64" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/><button class="btn btn-color-2" onclick="window.open('./assets/nihethan eswaran resume.pdf')">Download CV
-   (https://github.com/nihethan/nihethan/blob/main/Nihethan%20new%20new%20Resume%20(3).pdf))<br /><img width="96" height="96" src="https://img.icons8.com/windows/96/hackerrank.png" alt="hackerrank"/>Hackerrank<br/>
+   (https://github.com/nihethan/Resume_nihethan_eswaran/blob/main/Nihethan%20E_IT_NCT.pdf)<br /><img width="96" height="96" src="https://img.icons8.com/windows/96/hackerrank.png" alt="hackerrank"/>Hackerrank<br/>
           (https://www.hackerrank.com/profile/nihethane)<br/><img width="96" height="96" src="https://img.icons8.com/nolan/96/portfolio.png" alt="portfolio"/>Portfolio<br/>(https://my-portfolio-ov7l.vercel.app/)
 <br/>
 - 😄 Pronouns: Techie<br/>
